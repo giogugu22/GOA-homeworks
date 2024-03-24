@@ -19,3 +19,5 @@ print(type(16))
 print(type(168.5))
 
 print(giorgi + " " + str(16))
+
+
