@@ -1,5 +1,6 @@
 #1
-temp_in_celsius = 10
+
+temp_in_celsius = int(input("enter your number "))
 temp_in_fahrenheit = (temp_in_celsius * 1.8) + 32
 print(temp_in_fahrenheit)
 

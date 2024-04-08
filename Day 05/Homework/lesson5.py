@@ -1,4 +1,9 @@
 
+F=int(input("Enter your number: "))
+L=int(input("Enter your number: "))
+print(type(F))
+print(type(L))
+
 
 # / ზუსტი პასუხი
 
